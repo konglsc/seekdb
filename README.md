@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1232" height="716" alt="image" src="https://github.com/user-attachments/assets/0f4dd60f-15ad-4812-bc62-9a290eeb9752" /><div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mdn.alipayobjects.com/huamei_ytl0i7/afts/img/A*pKqtRILxGioAAAAAQLAAAAgAejCYAQ/original" width="420">
@@ -593,3 +593,5 @@ If seekdb is useful to you, **a star helps others find it.** ⭐
 ## 📄 License
 
 seekdb is built by the [OceanBase](https://en.oceanbase.com/) team — the same database engine running in production at Alipay, Taobao, DiDi, Xiaomi, and more. Fully open-source under the [Apache License, Version 2.0](LICENSE).
+
+OB-P:eKYIKR7PmtsLFfwR__Grmw
